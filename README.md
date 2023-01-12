@@ -15,3 +15,5 @@ body {
   justify-content: center;
 }
 ```
+
+[Check out the live website here.](https://urkenzy.github.io/interactive-rating-component/)
